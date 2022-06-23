@@ -1,0 +1,35 @@
+
+#container{
+    width: 1124px;
+    height: 1500px;
+    margin-top: auto;
+}
+
+#videos{
+    width: 150px;
+    height: 500px;
+    position: left 500px;
+
+    
+
+    
+}
+#botoes{
+    width: 250px;
+    height: 500px;
+    margin-top: 1px;
+    margin-left: 0px;
+}
+
+#texto{
+    width: 70%;
+    height: 340px;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#ul{
+    list-style: none;
+    margin-left: 60px;
+}
